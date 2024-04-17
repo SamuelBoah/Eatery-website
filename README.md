@@ -1,1 +1,1 @@
-# Eatery-website
+# Eatery website project
